@@ -9,4 +9,4 @@ DEVram31/DEVram31 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![banner](https://www.canva.com/design/DAFU0u4ExcU/2pXmHyHVZcZ5ug4wlQP2CA/edit?utm_content=DAFU0u4ExcU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![banner](https://www.canva.com/design/DAFU0u4ExcU/LaxfU3BWMmYsl_hiIOMJnQ/view?utm_content=DAFU0u4ExcU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
